@@ -1,4 +1,4 @@
-# Microserviços em Springbot
+# Microserviços em Springboot
 
 * Banco em Postgres
   * Utilizado imagem docker para o banco
